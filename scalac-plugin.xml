@@ -1,0 +1,4 @@
+<plugin>
+	<name>movingplugin</name>
+	<classname>movingplugin.MovingPlugin</classname>
+</plugin>
